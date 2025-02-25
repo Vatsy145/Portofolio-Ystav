@@ -404,6 +404,7 @@ span{
 	font-size: 3rem;
 	font-weight: 800;
 	line-height: 2;
+	margin-top: -63px; /*modification récemment*/
 }
 .service-info p{
 	font-size: 1.6rem;
