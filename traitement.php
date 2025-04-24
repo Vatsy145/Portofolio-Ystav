@@ -5,6 +5,7 @@ $number = $_POST['numero'];
 $subject = $_POST['sujet'];
 $message = $_POST['message'];
 
+//aza adino ilay functions eto ambony eto rehefa manao validations 
 
 //Import PHPMailer classes into the global namespace
 //These must be at the top of your script, not inside a function
