@@ -1,4 +1,11 @@
 <?php
+$nom = $_POST['name'];
+$mail = $_POST['mail'];
+$number = $_POST['numero'];
+$subject = $_POST['sujet'];
+$message = $_POST['message'];
+
+
 //Import PHPMailer classes into the global namespace
 //These must be at the top of your script, not inside a function
 use PHPMailer\PHPMailer\PHPMailer;
